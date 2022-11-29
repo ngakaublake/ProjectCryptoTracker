@@ -1,0 +1,15 @@
+C:\Users\lonep\Desktop\MobileApps\ProjectCryptoTracker\ProjectCryptoTracker\ProjectCryptoTracker\bin\Debug\netstandard2.0\ProjectCryptoTracker.deps.json
+C:\Users\lonep\Desktop\MobileApps\ProjectCryptoTracker\ProjectCryptoTracker\ProjectCryptoTracker\bin\Debug\netstandard2.0\ProjectCryptoTracker.dll
+C:\Users\lonep\Desktop\MobileApps\ProjectCryptoTracker\ProjectCryptoTracker\ProjectCryptoTracker\bin\Debug\netstandard2.0\ProjectCryptoTracker.pdb
+C:\Users\lonep\Desktop\MobileApps\ProjectCryptoTracker\ProjectCryptoTracker\ProjectCryptoTracker\obj\Debug\netstandard2.0\ProjectCryptoTracker.csproj.AssemblyReference.cache
+C:\Users\lonep\Desktop\MobileApps\ProjectCryptoTracker\ProjectCryptoTracker\ProjectCryptoTracker\obj\Debug\netstandard2.0\ProjectCryptoTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lonep\Desktop\MobileApps\ProjectCryptoTracker\ProjectCryptoTracker\ProjectCryptoTracker\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\lonep\Desktop\MobileApps\ProjectCryptoTracker\ProjectCryptoTracker\ProjectCryptoTracker\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\lonep\Desktop\MobileApps\ProjectCryptoTracker\ProjectCryptoTracker\ProjectCryptoTracker\obj\Debug\netstandard2.0\ProjectCryptoTracker.AssemblyInfoInputs.cache
+C:\Users\lonep\Desktop\MobileApps\ProjectCryptoTracker\ProjectCryptoTracker\ProjectCryptoTracker\obj\Debug\netstandard2.0\ProjectCryptoTracker.AssemblyInfo.cs
+C:\Users\lonep\Desktop\MobileApps\ProjectCryptoTracker\ProjectCryptoTracker\ProjectCryptoTracker\obj\Debug\netstandard2.0\ProjectCryptoTracker.csproj.CoreCompileInputs.cache
+C:\Users\lonep\Desktop\MobileApps\ProjectCryptoTracker\ProjectCryptoTracker\ProjectCryptoTracker\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\lonep\Desktop\MobileApps\ProjectCryptoTracker\ProjectCryptoTracker\ProjectCryptoTracker\obj\Debug\netstandard2.0\ProjectCryptoTracker.dll
+C:\Users\lonep\Desktop\MobileApps\ProjectCryptoTracker\ProjectCryptoTracker\ProjectCryptoTracker\obj\Debug\netstandard2.0\refint\ProjectCryptoTracker.dll
+C:\Users\lonep\Desktop\MobileApps\ProjectCryptoTracker\ProjectCryptoTracker\ProjectCryptoTracker\obj\Debug\netstandard2.0\ProjectCryptoTracker.pdb
+C:\Users\lonep\Desktop\MobileApps\ProjectCryptoTracker\ProjectCryptoTracker\ProjectCryptoTracker\obj\Debug\netstandard2.0\ref\ProjectCryptoTracker.dll
